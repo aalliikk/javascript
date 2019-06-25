@@ -70,7 +70,7 @@ Other Style Guides
     - `boolean`
     - `null`
     - `undefined`
-    - `symbol` (<-- two spaces)
+    - `symbol` <br/>
 
     ```javascript
     const foo = 1;
